@@ -6,7 +6,7 @@ class Computer {
     }
         public String getMePen(int cost){
             if(cost>=10)
-               return "Pen";
+               return "Pencil";
             
         return "nothing";
         }
