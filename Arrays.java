@@ -16,7 +16,7 @@ public class Arrays {
         Student s1=new Student();
         s1.rollno=1;
         s1.name="spoo";
-        s1.marks=99;
+        s1.marks=79;
 
         Student s2=new Student();
         s2.rollno=1;
