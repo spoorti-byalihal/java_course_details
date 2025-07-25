@@ -20,7 +20,7 @@ public class Arrays {
 
         Student s2=new Student();
         s2.rollno=1;
-        s2.name="sprti";
+        s2.name="spoorthi byalihal";
         s2.marks=92;
 
         Student s3=new Student();
